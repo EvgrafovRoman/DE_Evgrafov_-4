@@ -1,0 +1,13 @@
+C:\Users\Студент 2\source\repos\DE_Evgrafov№4\DE_Evgrafov№4\obj\Debug\DE_Evgrafov№4.csproj.AssemblyReference.cache
+C:\Users\Студент 2\source\repos\DE_Evgrafov№4\DE_Evgrafov№4\obj\Debug\DE_Evgrafov_4.Avtorizatsiya.resources
+C:\Users\Студент 2\source\repos\DE_Evgrafov№4\DE_Evgrafov№4\obj\Debug\DE_Evgrafov_4.Properties.Resources.resources
+C:\Users\Студент 2\source\repos\DE_Evgrafov№4\DE_Evgrafov№4\obj\Debug\DE_Evgrafov_4.Menu.resources
+C:\Users\Студент 2\source\repos\DE_Evgrafov№4\DE_Evgrafov№4\obj\Debug\DE_Evgrafov№4.csproj.GenerateResource.cache
+C:\Users\Студент 2\source\repos\DE_Evgrafov№4\DE_Evgrafov№4\obj\Debug\DE_Evgrafov№4.csproj.CoreCompileInputs.cache
+C:\Users\Студент 2\source\repos\DE_Evgrafov№4\DE_Evgrafov№4\bin\Debug\DE_Evgrafov№4.exe.config
+C:\Users\Студент 2\source\repos\DE_Evgrafov№4\DE_Evgrafov№4\bin\Debug\DE_Evgrafov№4.exe
+C:\Users\Студент 2\source\repos\DE_Evgrafov№4\DE_Evgrafov№4\bin\Debug\DE_Evgrafov№4.pdb
+C:\Users\Студент 2\source\repos\DE_Evgrafov№4\DE_Evgrafov№4\obj\Debug\DE_Evgrafov№4.exe
+C:\Users\Студент 2\source\repos\DE_Evgrafov№4\DE_Evgrafov№4\obj\Debug\DE_Evgrafov№4.pdb
+C:\Users\Студент 2\source\repos\DE_Evgrafov№4\DE_Evgrafov№4\obj\Debug\DE_Evgrafov_4.Avtorization.resources
+C:\Users\Студент 2\source\repos\DE_Evgrafov№4\DE_Evgrafov№4\obj\Debug\DE_Evgrafov_4.Сlient.resources
